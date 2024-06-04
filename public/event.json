@@ -1,0 +1,56 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "image_thumbnail": "https://i.postimg.cc/wxFB5CMG/male-business-executive-giving-speech.jpg",
+            "date": "2024-06-15",
+            "location": "City Conference Center, New York",
+            "title": "Tech Summit 2024",
+            "description": "The Tech Summit 2024 is a premier technology event bringing together thought leaders, industry experts, innovators, and technology enthusiasts from around the globe. This summit focuses on the latest technological advancements, emerging trends, and future directions in various tech domains, providing a platform for knowledge sharing, networking, and collaboration.The Tech Summit 2024 is a must-attend event for anyone involved in or passionate about technology. It offers a comprehensive platform for learning, networking, and exploring the future of technology across various domains. Whether you are a tech professional, entrepreneur, investor, or policymaker, the summit provides valuable insights and opportunities to advance your understanding and engagement in the technology ecosystem.",
+            "seat": "500"
+        },
+        {
+            "id": 2,
+            "image_thumbnail": "https://i.postimg.cc/ZqhZzH0N/office-meeting.jpg",
+            "date": "2024-07-20",
+            "location": "Virtual Event",
+            "title": "Data Science Conference",
+            "description": "The Data Science Conference is a leading event dedicated to exploring the advancements, applications, and innovations in data science. This conference brings together data scientists, industry leaders, researchers, and professionals from various sectors to share insights, discuss challenges, and collaborate on shaping the future of data science.The Data Science Conference is an essential event for anyone involved in or interested in data science. It provides a comprehensive platform for learning, networking, and exploring the future of data science. Whether you are a seasoned professional, a researcher, an entrepreneur, or a policymaker, the conference offers valuable insights and opportunities to advance your understanding and involvement in the data science ecosystem."
+        },
+        {
+            "id": 3,
+            "image_thumbnail": "https://i.postimg.cc/mg1XyGL3/blockchain-3277335-1280.png",
+            "date": "2024-08-10",
+            "location": "Convention Center, San Francisco",
+            "title": "Blockchain Expo",
+            "description": "The Blockchain Expo is a significant event in the tech industry, focusing on blockchain technology and its applications. This event brings together industry leaders, innovators, and professionals from various sectors to discuss the latest developments, challenges, and future trends in blockchain technology.The Blockchain Expo is a must-attend event for anyone involved or interested in blockchain technology. It offers a comprehensive platform to learn, network, and explore the future of blockchain. Whether you are a seasoned professional or a curious newcomer, the expo provides valuable insights and opportunities to advance your understanding and involvement in the blockchain ecosystem."
+        },
+        {
+            "id": 4,
+            "image_thumbnail": "https://i.postimg.cc/xqDJrHm1/ai-generated-8602502-1280.jpg",
+            "date": "2024-09-05",
+            "location": "Hyderabad International Convention Centre, India",
+            "title": "AI Summit India",
+            "description": "The AI Technology Expo is an essential event for anyone involved in or interested in artificial intelligence. It provides a comprehensive platform for learning, networking, and exploring the future of AI. Whether you are a seasoned professional, a curious newcomer, or an industry leader, the expo offers valuable insights and opportunities to advance your understanding and involvement in the AI ecosystem.The AI Summit India is an essential event for anyone involved in or interested in artificial intelligence. It offers a comprehensive platform for learning, networking, and exploring the future of AI within the Indian context. Whether you are an industry professional, researcher, entrepreneur, or policymaker, the summit provides valuable insights and opportunities to advance your understanding and involvement in the AI ecosystem.",
+            "seat": "300"
+        },
+        {
+            "id": 5,
+            "image_thumbnail": "https://i.postimg.cc/NjQ85qyf/social-media-6406641-1280.jpg",
+            "date": "2024-10-15",
+            "location": "Online",
+            "title": "Digital Marketing Conference",
+            "description": "The Digital Marketing Expo is a premier event dedicated to exploring the latest trends, strategies, and innovations in digital marketing. This expo brings together marketing professionals, industry leaders, entrepreneurs, and technology providers to share insights, discuss challenges, and collaborate on advancing digital marketing practices.The Digital Marketing Expo is an essential event for anyone involved in or interested in digital marketing. It offers a comprehensive platform for learning, networking, and exploring the future of marketing in the digital age. Whether you are a marketing professional, entrepreneur, investor, or technology provider, the expo provides valuable insights and opportunities to advance your understanding and involvement in the digital marketing ecosystem",
+            "seat": "Unlimited"
+        },
+        {
+            "id": 6,
+            "image_thumbnail": "https://i.postimg.cc/76MwPWf7/medical-banner-with-doctor-wearing-equipment.jpg",
+            "date": "2024-11-20",
+            "location": "ExCeL London",
+            "title": "MedTech Expo",
+            "description": "The Medical Technology Expo is a premier event dedicated to the latest innovations, advancements, and applications in medical technology. This expo gathers healthcare professionals, industry leaders, researchers, and innovators to explore cutting-edge medical devices, diagnostic tools, and healthcare solutions aimed at improving patient care and advancing the medical field.The Medical Technology Expo is a must-attend event for anyone involved in or interested in the medical technology field. It provides a comprehensive platform for learning, networking, and exploring the latest innovations and advancements in medical technology. Whether you are a healthcare professional, researcher, developer, or investor, the expo offers valuable insights and opportunities to advance your knowledge and involvement in the medical technology industry",
+            "seat": "800"
+        }
+    ]
+}

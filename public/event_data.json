@@ -1,0 +1,52 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "image_thumbnail": "https://i.postimg.cc/wxFB5CMG/male-business-executive-giving-speech.jpg",
+            "date": "2024-06-15",
+            "location": "City Conference Center, New York",
+            "title": "Tech Summit 2024",
+            "seat": "500"
+        },
+        {
+            "id": 2,
+            "image_thumbnail": "https://i.postimg.cc/ZqhZzH0N/office-meeting.jpg",
+            "date": "2024-07-20",
+            "location": "Virtual Event",
+            "title": "Data Science Conference",
+            "seat": "Unlimited"
+        },
+        {
+            "id": 3,
+            "image_thumbnail": "https://i.postimg.cc/mg1XyGL3/blockchain-3277335-1280.png",
+            "date": "2024-08-10",
+            "location": "Convention Center, San Francisco",
+            "title": "Blockchain Expo",
+            "seat": "1000"
+        },
+        {
+            "id": 4,
+            "image_thumbnail": "https://i.postimg.cc/xqDJrHm1/ai-generated-8602502-1280.jpg",
+            "date": "2024-09-05",
+            "location": "Hyderabad International Convention Centre, India",
+            "title": "AI Summit India",
+            "seat": "300"
+        },
+        {
+            "id": 5,
+            "image_thumbnail": "https://i.postimg.cc/NjQ85qyf/social-media-6406641-1280.jpg",
+            "date": "2024-10-15",
+            "location": "Online",
+            "title": "Digital Marketing Conference",
+            "seat": "Unlimited"
+        },
+        {
+            "id": 6,
+            "image_thumbnail": "https://i.postimg.cc/76MwPWf7/medical-banner-with-doctor-wearing-equipment.jpg",
+            "date": "2024-11-20",
+            "location": "ExCeL London",
+            "title": "MedTech Expo",
+            "seat": "800"
+        }
+    ]
+}
